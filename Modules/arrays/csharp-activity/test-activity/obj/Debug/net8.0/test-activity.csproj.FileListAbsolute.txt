@@ -1,0 +1,14 @@
+C:\Users\oryee\Desktop\actividad\csharp-activity\test-activity\bin\Debug\net8.0\test-activity.exe
+C:\Users\oryee\Desktop\actividad\csharp-activity\test-activity\bin\Debug\net8.0\test-activity.deps.json
+C:\Users\oryee\Desktop\actividad\csharp-activity\test-activity\bin\Debug\net8.0\test-activity.runtimeconfig.json
+C:\Users\oryee\Desktop\actividad\csharp-activity\test-activity\bin\Debug\net8.0\test-activity.dll
+C:\Users\oryee\Desktop\actividad\csharp-activity\test-activity\bin\Debug\net8.0\test-activity.pdb
+C:\Users\oryee\Desktop\actividad\csharp-activity\test-activity\obj\Debug\net8.0\test-activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oryee\Desktop\actividad\csharp-activity\test-activity\obj\Debug\net8.0\test-activity.AssemblyInfoInputs.cache
+C:\Users\oryee\Desktop\actividad\csharp-activity\test-activity\obj\Debug\net8.0\test-activity.AssemblyInfo.cs
+C:\Users\oryee\Desktop\actividad\csharp-activity\test-activity\obj\Debug\net8.0\test-activity.csproj.CoreCompileInputs.cache
+C:\Users\oryee\Desktop\actividad\csharp-activity\test-activity\obj\Debug\net8.0\test-activity.dll
+C:\Users\oryee\Desktop\actividad\csharp-activity\test-activity\obj\Debug\net8.0\refint\test-activity.dll
+C:\Users\oryee\Desktop\actividad\csharp-activity\test-activity\obj\Debug\net8.0\test-activity.pdb
+C:\Users\oryee\Desktop\actividad\csharp-activity\test-activity\obj\Debug\net8.0\test-activity.genruntimeconfig.cache
+C:\Users\oryee\Desktop\actividad\csharp-activity\test-activity\obj\Debug\net8.0\ref\test-activity.dll

@@ -1,0 +1,14 @@
+C:\Users\oryee\Desktop\course\CSharpProjects\TestProjects\bin\Debug\net8.0\TestProjects.exe
+C:\Users\oryee\Desktop\course\CSharpProjects\TestProjects\bin\Debug\net8.0\TestProjects.deps.json
+C:\Users\oryee\Desktop\course\CSharpProjects\TestProjects\bin\Debug\net8.0\TestProjects.runtimeconfig.json
+C:\Users\oryee\Desktop\course\CSharpProjects\TestProjects\bin\Debug\net8.0\TestProjects.dll
+C:\Users\oryee\Desktop\course\CSharpProjects\TestProjects\bin\Debug\net8.0\TestProjects.pdb
+C:\Users\oryee\Desktop\course\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oryee\Desktop\course\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.AssemblyInfoInputs.cache
+C:\Users\oryee\Desktop\course\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.AssemblyInfo.cs
+C:\Users\oryee\Desktop\course\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.csproj.CoreCompileInputs.cache
+C:\Users\oryee\Desktop\course\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.dll
+C:\Users\oryee\Desktop\course\CSharpProjects\TestProjects\obj\Debug\net8.0\refint\TestProjects.dll
+C:\Users\oryee\Desktop\course\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.pdb
+C:\Users\oryee\Desktop\course\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.genruntimeconfig.cache
+C:\Users\oryee\Desktop\course\CSharpProjects\TestProjects\obj\Debug\net8.0\ref\TestProjects.dll
