@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oryee\\Desktop\\actividad\\csharp-activity\\test-activity\\test-activity.csproj",
+      "projectUniqueName": "C:\\Users\\oryee\\Documents\\GitHub\\CSharp-Basics\\Modules\\arrays\\csharp-activity\\test-activity\\test-activity.csproj",
       "projectName": "test-activity",
-      "projectPath": "C:\\Users\\oryee\\Desktop\\actividad\\csharp-activity\\test-activity\\test-activity.csproj",
+      "projectPath": "C:\\Users\\oryee\\Documents\\GitHub\\CSharp-Basics\\Modules\\arrays\\csharp-activity\\test-activity\\test-activity.csproj",
       "packagesPath": "C:\\Users\\oryee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oryee\\Desktop\\actividad\\csharp-activity\\test-activity\\obj\\",
+      "outputPath": "C:\\Users\\oryee\\Documents\\GitHub\\CSharp-Basics\\Modules\\arrays\\csharp-activity\\test-activity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oryee\\AppData\\Roaming\\NuGet\\NuGet.Config"
