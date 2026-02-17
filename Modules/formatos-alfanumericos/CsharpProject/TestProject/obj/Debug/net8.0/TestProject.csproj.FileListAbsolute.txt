@@ -1,0 +1,15 @@
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\formatos-alfanumericos\CsharpProject\TestProject\obj\Debug\net8.0\ref\TestProject.dll

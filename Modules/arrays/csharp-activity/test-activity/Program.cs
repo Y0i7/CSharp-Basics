@@ -93,7 +93,7 @@ foreach (var word in wordsList){
 
 Console.WriteLine(result);
  */
-
+/* 
  string pangram = "The quick brown fox jumps over the lazy dog";
 
 // Step 1
@@ -113,3 +113,17 @@ for (int i = 0; i < message.Length; i++)
 //Step 4
 string result = String.Join(" ", newMessage);
 Console.WriteLine(result);
+ */
+
+string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+var idList = orderStream.Split(',');
+
+Array.Sort(idList);
+
+for (var i = 0; i < idList.Length; i++)
+{
+    if (idList[i].Length != 4)
+        idList[i] += "\t-\tError";
+        
+    Console.WriteLine(idList[i]);
+}
