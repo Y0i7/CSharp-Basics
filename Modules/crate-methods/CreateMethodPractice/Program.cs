@@ -16,31 +16,7 @@ namespace CreateMethods
             Console.WriteLine("Enter current GMT");
             int currentGMT = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Current Medicine Schedule:");
-
-            /* Format and display medicine times */
-            foreach (int val in times)
-            {
-                string time = val.ToString();
-                int len = time.Length;
-
-                if (len >= 3)
-                {
-                    time = time.Insert(len - 2, ":");
-                }
-                else if (len == 2)
-                {
-                    time = time.Insert(0, "0:");
-                }
-                else
-                {
-                    time = time.Insert(0, "0:0");
-                }
-
-                Console.Write($"{time} ");
-            }
-
-            Console.WriteLine();
+            DisplayTimes(times);
 
             Console.WriteLine("Enter new GMT");
             int newGMT = Convert.ToInt32(Console.ReadLine());
@@ -54,25 +30,32 @@ namespace CreateMethods
                 diff = 100 * (Math.Abs(newGMT) - Math.Abs(currentGMT));
 
                 /* Adjust the times by adding the difference, keeping the value within 24 hours */
-                for (int i = 0; i < times.Length; i++)
-                {
-                    times[i] = ((times[i] + diff)) % 2400;
-                }
+                AdjustTimes(times, diff);
             }
             else
             {
                 diff = 100 * (Math.Abs(newGMT) + Math.Abs(currentGMT));
 
                 /* Adjust the times by adding the difference, keeping the value within 24 hours */
-                for (int i = 0; i < times.Length; i++)
-                {
-                    times[i] = ((times[i] + diff)) % 2400;
-                }
+                AdjustTimes(times, diff);
             }
 
+            DisplayTimes(times);
+
+        }
+
+        static void AdjustTimes(int[] times, int diff)
+        {
+            for (int i = 0; i < times.Length; i++)
+            {
+                times[i] = ((times[i] + diff)) % 2400;
+            }
+        }
+
+        static void DisplayTimes(int[] times)
+        {
             Console.WriteLine("New Medicine Schedule:");
 
-            /* Format and display medicine times */
             foreach (int val in times)
             {
                 string time = val.ToString();
@@ -95,7 +78,6 @@ namespace CreateMethods
             }
 
             Console.WriteLine();
-
         }
 
         void DisplayRandomNumbers()
