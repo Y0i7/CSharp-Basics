@@ -1,0 +1,15 @@
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\bin\Debug\net10.0\CreateMethodPractice.exe
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\bin\Debug\net10.0\CreateMethodPractice.deps.json
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\bin\Debug\net10.0\CreateMethodPractice.runtimeconfig.json
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\bin\Debug\net10.0\CreateMethodPractice.dll
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\bin\Debug\net10.0\CreateMethodPractice.pdb
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\obj\Debug\net10.0\CreateMethodPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\obj\Debug\net10.0\CreateMethodPractice.AssemblyInfoInputs.cache
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\obj\Debug\net10.0\CreateMethodPractice.AssemblyInfo.cs
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\obj\Debug\net10.0\CreateMethodPractice.csproj.CoreCompileInputs.cache
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\obj\Debug\net10.0\CreateMethodPractice.sourcelink.json
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\obj\Debug\net10.0\CreateMethodPractice.dll
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\obj\Debug\net10.0\refint\CreateMethodPractice.dll
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\obj\Debug\net10.0\CreateMethodPractice.pdb
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\obj\Debug\net10.0\CreateMethodPractice.genruntimeconfig.cache
+C:\Users\oryee\Documents\GitHub\CSharp-Basics\Modules\crate-methods\CreateMethodPractice\obj\Debug\net10.0\ref\CreateMethodPractice.dll
