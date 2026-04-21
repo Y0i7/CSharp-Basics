@@ -2,9 +2,9 @@
 
 namespace CreateMethods
 {
-    public class Program
+    public class Practice1
     {
-        public static void Main(string[] args)
+        public static void Practice()
         {
             /*Program executor = new Program();
              Console.WriteLine("Generating random numbers");
