@@ -5,7 +5,7 @@ dos dimensiones con las posiciónes que coinciden para cumplir la condición de 
 exacta esperada
 */
 using System;
-public class Program
+public class Activity5
 {
     public static void Main()
     {
