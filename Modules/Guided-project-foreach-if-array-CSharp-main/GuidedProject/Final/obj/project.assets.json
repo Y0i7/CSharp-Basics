@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oryee\\Desktop\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Final\\Final.csproj",
+      "projectUniqueName": "C:\\Users\\oryee\\Documents\\GitHub\\CSharp-Basics\\Modules\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Final\\Final.csproj",
       "projectName": "Final",
-      "projectPath": "C:\\Users\\oryee\\Desktop\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Final\\Final.csproj",
+      "projectPath": "C:\\Users\\oryee\\Documents\\GitHub\\CSharp-Basics\\Modules\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Final\\Final.csproj",
       "packagesPath": "C:\\Users\\oryee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oryee\\Desktop\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Final\\obj\\",
+      "outputPath": "C:\\Users\\oryee\\Documents\\GitHub\\CSharp-Basics\\Modules\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oryee\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,7 +43,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -64,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.108/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
